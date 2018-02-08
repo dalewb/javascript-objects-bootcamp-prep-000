@@ -1,2 +1,2 @@
-var playlist = new Object(Nirvana: "Heart Shaped Box")
+var playlist = {Nirvana: "Heart Shaped Box"}
 
